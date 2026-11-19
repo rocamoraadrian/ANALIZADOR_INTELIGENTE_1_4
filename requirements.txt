@@ -5,3 +5,11 @@ Pillow
 pytesseract
 openpyxl
 pdfplumber
+streamlit
+pandas
+numpy
+Pillow
+pytesseract
+openpyxl
+pdfplumber
+python-docx
